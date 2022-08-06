@@ -1,0 +1,166 @@
+
+    font-face {
+        font-family: Averta;
+        src: url(https://res.cloudinary.com/dafsch2zs/raw/upload/v1596618987/Zuri%20Landing/AvertaDemoPECuttedDemo-Regular_dghpn7.otf);
+    }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Averta, sans-serif;
+
+}
+    
+.box1{
+    text-align: center;
+    height: 800px;
+    background-image: url(https://zuri.team/img/hero-bg.svg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+    
+    
+}
+.box1>img{
+    padding-bottom: 5rem;
+    padding-top: 4rem;
+}
+.box1>h2{
+    padding-bottom: 2rem;
+}
+.box1>p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #514949;
+    opacity: 0.9;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-bottom: 5rem;
+}
+.btn1{
+    height: 50px;
+    width: 200px;
+    background-color: #E7332B;
+    color: #fff;
+    margin-right: 24px;
+
+}
+.btn2{
+    background-color: #fff;
+    color: #E7332B;
+    height: 50px;
+    width: 200px;
+    margin-right: 24px;
+    border: 1px solid #E7332B;
+    
+}
+.box2{
+    text-align: center;
+    
+}
+.box2>p{
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+    color: #E7332B;
+}
+.box2>h3{
+    font-size: 20px;
+    line-height: 30px;
+    color: #514949;
+    padding-left: 30rem;
+    padding-right: 30rem;
+    opacity: 0.9
+}
+main{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 0.5rem;
+   background-image: url("images/right_yz6hn3.png")
+}
+.box3a{
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin-right: 30px;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: #FFFAFA;
+    opacity: 0.9;
+}
+.box3b{
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 5rem;
+    margin-right: 30px;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: #FFFAFA;
+    opacity: 0.9;
+}
+.box3c{
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 5rem;
+    margin-right: 30px;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: #FFFAFA;
+    opacity: 0.9;
+}
+.box3a p{
+    padding-bottom: 1rem;
+}
+.box3b p{
+    padding-bottom: 1rem;
+}
+.box3c p{
+    padding-bottom: 1rem;
+}
+a{
+    color: #E7332B;
+}
+.box4{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 0.5rem;
+    font-size: 16px;
+    line-height: 40px;
+    
+}
+.box4a{
+    padding-right: 15rem;
+}
+.box4b{
+    padding-right: 15rem
+}
+.box4c{
+    padding-right: 15rem
+}
+.box4d{
+    padding-right: 15rem
+}
+.box4d img{
+   width: 20%; 
+   height: 20%;
+}
+footer{
+    text-align: center;
+    opacity: 0.9;
+    border: 0.2px solid #514949;
+    padding-bottom: 5rem;
+    margin-left: 5rem;
+}
+
+
